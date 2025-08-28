@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="ptrlSimpleDiscordReward" src="https://github.com/user-attachments/assets/29a84a32-3d1f-418e-9752-99d4b77b12f9" />
+<img width="1360" height="720" alt="ptrlSimpleDiscordReward" src="https://github.com/user-attachments/assets/641f0cb9-1af5-4e6a-b7f5-34fc7f166bc0" />
 
 # ptrlSimpleDiscordReward
 
