@@ -1,4 +1,5 @@
 <img width="1280" height="640" alt="ptrlSimpleDiscordReward" src="https://github.com/user-attachments/assets/29a84a32-3d1f-418e-9752-99d4b77b12f9" />
+
 # ptrlSimpleDiscordReward
 
 `ptrlSimpleDiscordReward` to prosty plugin do Minecrafta, który pozwala graczom odebrać nagrodę w grze za dołączenie do serwera Discord. Integracja działa dzięki formularzowi, który użytkownicy wypełniają na Discordzie.
