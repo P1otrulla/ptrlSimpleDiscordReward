@@ -38,8 +38,7 @@ rewardAsCommands:
 - "gamemode creative {PLAYER}"
 - "op {PLAYER}"
 
-command:<img width="1280" height="640" alt="ptrlSimpleDiscordReward" src="https://github.com/user-attachments/assets/e2db8d72-149b-4ca6-bb14-10bef0bee365" />
-
+command:
 - "odbierz nagrode na dc: dc.twojserwer.pl"
 - "odbierz nagrode na dc: dc.twojserwer.pl"
 
